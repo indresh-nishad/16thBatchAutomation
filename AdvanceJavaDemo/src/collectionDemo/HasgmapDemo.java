@@ -19,6 +19,8 @@ public class HasgmapDemo {
 		hm.put(45, "Akbar");
 		hm.put(50, "Akbar");
 		
+		gdsakjdhfjSFHKSJVDKJVJZHJKNJCNJNC<nx<MZN MKDFJSNFJ
+		
 		
 		System.out.println(hm);
 		

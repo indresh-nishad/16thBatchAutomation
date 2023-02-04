@@ -17,7 +17,7 @@ public class SetDemo {
 		System.out.println(hs);
 		
 
-		System.out.println("*************************");
+		System.out.println("*******************8888");
 		
 		for(Object obj: hs){
 			

@@ -11,7 +11,7 @@ public class HasgmapDemo {
 		
 		HashMap<Integer, String> hm = new HashMap<Integer, String>();
 		
-		hm.put(10, "String");
+		hm.put(10, "ajay");
 		hm.put(20, "Poonam");
 		hm.put(30, "Vaibhav");
 		hm.put(40, "Vaibhav");
@@ -19,10 +19,11 @@ public class HasgmapDemo {
 		hm.put(45, "Akbar");
 		hm.put(50, "Akbar");
 		
-		gdsakjdhfjSFHKSJVDKJVJZHJKNJCNJNC<nx<MZN MKDFJSNFJ
+		
 		
 		
 		System.out.println(hm);
+		System.out.println("imajayyadav");
 		
 		//hm.remove(50);
 		
